@@ -1,0 +1,6 @@
+<dict>
+    <string name="name">Print Dyes</string>
+    <string name="author">KellyFromSales</string>
+    <string name="description">prints the number of dyes you have out of total to the console during load, use ` after loading and look for the dyes info</string>
+
+</dict>
